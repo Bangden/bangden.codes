@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on HUGO.386</title>
+    <link>http://bangden.codes/post/</link>
+    <description>Recent content in Posts on HUGO.386</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 27 Apr 2020 05:49:22 +0700</lastBuildDate>
+    
+	<atom:link href="http://bangden.codes/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>http://bangden.codes/post/first/</link>
+      <pubDate>Mon, 27 Apr 2020 05:49:22 +0700</pubDate>
+      
+      <guid>http://bangden.codes/post/first/</guid>
+      <description>This is my first blog post Hi How are you! Buosssoookkk</description>
+    </item>
+    
+    <item>
+      <title>Hugo: A fast and flexible static site generator</title>
+      <link>http://bangden.codes/post/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://bangden.codes/post/hugo/</guid>
+      <description>Ajuoorr boss</description>
+    </item>
+    
+  </channel>
+</rss>

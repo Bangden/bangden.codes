@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://bangden.codes/post/first/</loc>
+    <lastmod>2020-04-27T05:49:22+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bangden.codes/post/</loc>
+    <lastmod>2020-04-27T05:49:22+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bangden.codes/about/</loc>
+    <lastmod>2020-04-27T05:48:26+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bangden.codes/</loc>
+    <lastmod>2020-04-27T05:48:26+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bangden.codes/tags/blogging/</loc>
+  </url>
+  
+  <url>
+    <loc>http://bangden.codes/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://bangden.codes/tags/development/</loc>
+  </url>
+  
+  <url>
+    <loc>http://bangden.codes/categories/development/</loc>
+  </url>
+  
+  <url>
+    <loc>http://bangden.codes/tags/fast/</loc>
+  </url>
+  
+  <url>
+    <loc>http://bangden.codes/tags/go/</loc>
+  </url>
+  
+  <url>
+    <loc>http://bangden.codes/post/hugo/</loc>
+  </url>
+  
+  <url>
+    <loc>http://bangden.codes/manuk/</loc>
+  </url>
+  
+  <url>
+    <loc>http://bangden.codes/tags/</loc>
+  </url>
+  
+</urlset>
